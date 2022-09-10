@@ -11,7 +11,7 @@ This repository contains my work as a bootcamp student completed to the best of 
 
 ## Design
 
-The following links display the finished product:
+The following images display the finished product:
 
 <img width="1889" alt="Screen Shot 2022-09-09 at 8 58 44 PM" src="https://user-images.githubusercontent.com/112007722/189465176-9af69723-e995-4738-9710-4dc16c88a3e3.png">
 
